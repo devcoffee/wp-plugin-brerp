@@ -37,7 +37,7 @@ Na janela **Tipo de Solicitação**, crie um novo tipo de solicitação chamado 
 
 ![](imagens/Estado_solic.png)
 
-### Criando a categoria de requesição
+### Criando a Categoria da Solicitação
 
 Abra a janela **Categoria da Solicitação** e crie uma nova solicitação chamada *CRM Requests*
 
