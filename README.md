@@ -90,4 +90,3 @@ $user_login_AD_Table_ID=114;
 $user_profile_ad_user_id=1000000;
 ?>
 ```
-
